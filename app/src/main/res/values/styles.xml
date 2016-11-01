@@ -1,0 +1,33 @@
+<resources>
+    <color name="primary">#673AB7</color>
+    <color name="primary_dark">#512DA8</color>
+    <color name="primary_light">#D1C4E9</color>
+    <color name="accent">#ffff84df</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:buttonStyle">@style/customButton</item>
+    </style>
+
+    <!-- Button  -->
+    <style name="customButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/accent</item>
+    </style>
+
+    <style name="HeaderTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>
+

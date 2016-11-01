@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="name">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order">order</string>
+    <string name="total">Total</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="add_whipped_cream">add Whipped Cream\n</string>
+    <string name="add_chocolate">add Chocolate\n</string>
+    <string name="max_coffees_toast">Sorry, 10 coffees is the limit per customer</string>
+    <string name="order_confirmation">Just Java Order Confirmation</string>
+    <string name="action_settings">Settings</string>
+</resources>
+

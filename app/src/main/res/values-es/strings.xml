@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nombre</string>
+    <string name="toppings">Ingrediente</string>
+    <string name="whipped_cream">Crema Batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="order_summary">Resumen del Orden</string>
+    <string name="order">ordenar</string>
+    <string name="total">Total</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="add_whipped_cream">con Crema Batida\n</string>
+    <string name="add_chocolate">con Chocolate\n</string>
+    <string name="max_coffees_toast">10 cafés es el maximo por cliente</string>
+    <string name="order_confirmation">Just Java Confirmación</string>
+    <string name="action_settings">Ajustes</string>
+</resources>
